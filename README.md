@@ -7,7 +7,7 @@ Dot Net Developer
 I have been coding for around 4 plus years.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [benjoe@gmail.com](mailto:benjoe@gmail.com)
+* ✉️  You can contact me at [benjosephcr7@gmail.com](mailto:benjosephcr7@gmail.com)
 * 🧠  I'm learning Angular
 
 ### Skills
