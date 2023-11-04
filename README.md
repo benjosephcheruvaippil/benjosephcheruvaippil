@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ben Joseph
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Ben Joseph
 ==================================================================================================================================
 
-Dot Net Developer
+C# Developer
 -----------------
 
 I have been coding for around 4 plus years.
