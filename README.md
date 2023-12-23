@@ -8,7 +8,7 @@ I have been coding for around 4 plus years.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [benjosephcr7@gmail.com](mailto:benjosephcr7@gmail.com)
-*  I am building a web and mobile app that helps to manage your personal/family finance like income,expenses,assets and liabilities thereby giving you a better clarity of the same.
+* 👨‍💻 I am building a web and mobile app that helps to manage your personal/family finance like income,expenses,assets and liabilities thereby giving you a better clarity of the same.
 * 🧠  I'm learning React
 
 ### Skills
