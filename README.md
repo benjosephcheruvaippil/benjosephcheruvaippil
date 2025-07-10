@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -----------------
 
-I have been coding for around 5 plus years.
+I like to build stuff..
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Kochi,India.
 * ✉️  You can contact me at [benjosephcr7@gmail.com](mailto:benjosephcr7@gmail.com)
 * 👨‍💻 I am building a web and mobile app that helps to manage your personal/family finance like income,expenses,assets and liabilities thereby giving you a better clarity of your financial worth.
-* 🧠  I'm learning more about Dot Net and C# ecosystem.
+* 🧠  Primarily interested in backend systems, with a secondary interest in front-end development.
 
 ### Skills
 
