@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 -----------------
 
-I like to build stuff..
+I like to build stuff.
 
 * 🌍  I'm based in Kochi,India.
 * ✉️  You can contact me at [benjosephcr7@gmail.com](mailto:benjosephcr7@gmail.com)
