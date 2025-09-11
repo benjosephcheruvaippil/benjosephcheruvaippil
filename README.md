@@ -9,7 +9,7 @@ I like to build stuff.
 * 🌍  I'm based in Kochi,India.
 * ✉️  You can contact me at [benjosephcr7@gmail.com](mailto:benjosephcr7@gmail.com)
 * 👨‍💻 I am building a web and mobile app that helps to manage your personal/family finance like income,expenses,assets and liabilities thereby giving you a better clarity of your financial worth.
-* 🧠  Primarily interested in backend systems, with a secondary interest in front-end development.
+* 🧠  Primarily interested in backend systems, with a secondary interest in UI development.
 
 ### Skills
 
